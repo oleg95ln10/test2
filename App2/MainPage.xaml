@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <Button Content="HELLO"></Button>
     </Grid>
 </Page>
